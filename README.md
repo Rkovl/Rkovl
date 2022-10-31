@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a student at the coding boot-camp DigitalCrafts looking to transition from being an electrician to a developer. Looking and avalible for any job offers. I’m currently working on cleaning and improving my old projects aswell as learning React and Kotlin. <br/> Reach me at:  
-ryan.kovlasker@gmail.com | https://ryankovlaske.netlify.app/
+I'm a DigitalCrafts graduate looking to transition from being an electrician to a developer. Looking and available for any job offers. I’m currently working on cleaning and improving my old projects as-well as learning more about React and Kotlin. <br/> Reach me at:  
+ryan.kovlasker@gmail.com | https://www.linkedin.com/in/ryan-kovlaske-6823b8246/ | https://ryankovlaske.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-kovlaske-6823b8246) 
